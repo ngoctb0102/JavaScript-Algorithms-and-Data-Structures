@@ -1,0 +1,2 @@
+var myFirstName = "Tran";
+var myLastName = "Ngoc";
