@@ -1,0 +1,3 @@
+// Only change code below this line
+var myName = "Ngoc ";
+var myStr = "M name is " + myName + "and I am well!";
